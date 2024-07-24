@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá, eu sou Tatiana Haveroth Barbosa 👋
 
-<!--
-**tatihav/tatihav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 Sou programadora Fron-End
+- 📒Estudante da PUC Minas Virtual
+- 🖥️Tecnólogo em Sistemas para Internet
+
+
+           
+  ![image](https://github.com/user-attachments/assets/ccdd89ae-dc69-42ce-be16-33f788f76a97) ![image](https://github.com/user-attachments/assets/6bc7eead-1550-47b8-90bc-b345e58faebf) ![image](https://github.com/user-attachments/assets/58db139d-02c4-4e29-aa7b-cf0504c358f0)
+
+
+
+          
+          
+          
+          
+          
+          
