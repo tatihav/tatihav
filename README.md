@@ -2,7 +2,7 @@
 
 
 
-- 👩‍💻 Sou programadora Fron-End
+- 👩‍💻 Sou programadora Front-End
 - 📒Estudante da PUC Minas Virtual
 - 🖥️Tecnólogo em Sistemas para Internet
 
